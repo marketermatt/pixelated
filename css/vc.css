@@ -1,0 +1,89 @@
+h4.wpb_toggle{
+    border: 1px solid #f7f7f7;
+    background-color: #f7f7f7;
+    padding: 10px 25px;
+    background-position: 1% center;
+}
+
+.wpb_toggle_content{
+    padding-left: 20px;
+}
+
+.wpb_accordion_section .ui-state-default{
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.wpb_accordion_section .ui-state-default a{
+    color: #fff !important;
+}
+
+.vc_separator h4{
+    font-size: 25px !important;
+}
+
+.messagebox{
+    padding: 20px;
+}
+
+.rounded{
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.round{
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+}
+
+.flexslider{
+    overflow: hidden;
+}
+
+.wpb_tabs_nav{
+    background: none;
+    font-weight: bold;
+}
+
+.wpb_tabs_nav .ui-state-default, .wpb_accordion_section .ui-state-default{
+    width: auto !important;
+    height: auto !important;
+    box-shadow: none;
+}
+
+/********************VC ELEMENTS**************************/
+.outlined{
+    border: 1px solid #ccc;
+    background: transparent !important;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+[class="3d"]{
+    border-top: 2px solid #ccc;
+    border-bottom: 4px solid #ccc;
+    border-left: 4px solid #ccc;
+    border-top: 2px solid #ccc;
+}
+
+.square_outlined{
+    border: 1px solid #ccc;
+    background: transparent !important;
+}
+
+.wpb_video_wrapper{
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding-bottom: 0px;
+}
+
+.vc_progress_bar .vc_label{
+    font-weight: bold;
+}

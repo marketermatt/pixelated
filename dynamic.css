@@ -1,0 +1,31 @@
+/* BEGIN pts_custom_css */
+.content-area p img {max-width: 100%; height: auto;}
+.woocommerce-cart .cart-collaterals .cart_totals table td, 
+.woocommerce-cart .cart-collaterals .cart_totals table th{
+    padding: 6px;
+}
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals{
+    width: 80%;
+}
+
+nav > li > a:hover, .nav > li > a:focus {
+    background-color: transparent !important;
+}
+/* END pts_custom_css */
+
+
+@media only screen and (max-device-width: 480px) and (min-device-width: 320px) {
+
+	#wpcf7-f1672-p1673-o1
+	{
+		position: absolute !important;
+		left: -239px !important;
+		top:-67px;
+	}
+	
+	#slide-13-layer-1{font-size:14px !important;margin:0 0 0 38px !important;width:88% !important;}
+	
+	#wpcf7-f1672-p1673-o1{
+		max-width: 320px !important;
+	}
+} 
